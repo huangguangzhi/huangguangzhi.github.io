@@ -268,7 +268,7 @@ function ckstyle() { //定义总的风格
 			8、(default = 0) — 指定发光是否为内侧发光。 值 1 指定发光是内侧发光。 值 0 指定发光是外侧发光（对象外缘周围的发光）  
 			9、(default = 0) — 指定对象是否具有挖空效果。 值为 1 将使对象的填充变为透明，并显示文档的背景颜色 
 		*/
-        advmarquee: escape('{a href="http://www.ckplayer.com"}{font color="#FFFFFF" size="12"}这里可以放文字广告，播放器默认使用这里设置的广告内容，如果不想在这里使用可以清空这里的内容，如果想在页面中实时定义滚动文字广告内容，可以清空这里的内容，然后在页面中设置广告函数。{/font}{/a}'),
+        advmarquee: escape('{a href="https://github.com/huangguangzhi/huangguangzhi.github.io" target="_blank"}{font color="#FF6600" size="18"}通知：{/font}{font color="#FFFFFF" size="15"}欢迎进入全端工程师社区，在这里你可以了解到许多开发方面的东西，当然你也可以加入进来一起写作，把你认为实用的知识放进来,谢谢各位。点击本条滚动信息进入本站github地址。enjoy it!!!{/font}{/a}'),
         /*
 		该处是滚动文字广告的内容，如果不想在这里设置，就把这里清空并且在页面中使用js的函数定义function ckmarqueeadv(){return '广告内容'}
 		*/
