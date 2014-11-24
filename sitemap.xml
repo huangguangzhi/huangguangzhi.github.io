@@ -1,32 +1,81 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset
-    xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
-       http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">	
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
 <url>
-<loc>http://79kg.com</loc>
-<priority>1.00</priority>
-<lastmod>2014-11-22</lastmod>
-<changefreq>weekly</changefreq>
+  <loc>http://79kg.com/</loc>
+  <lastmod>2014-11-24T00:41:02+00:00</lastmod>
 </url>
 <url>
-<loc>http://79kg.com/resume.html</loc>
-<priority>0.5</priority>
-<lastmod>2014-11-22</lastmod>
-<changefreq>weekly</changefreq>
+  <loc>http://79kg.com/tags/news/</loc>
+  <lastmod>2014-11-24T00:41:02+00:00</lastmod>
 </url>
 <url>
-<loc>http://79kg.com/index.html</loc>
-<priority>0.5</priority>
-<lastmod>2014-11-22</lastmod>
-<changefreq>weekly</changefreq>
+  <loc>http://79kg.com/tags/foreend/</loc>
+  <lastmod>2014-11-24T00:41:02+00:00</lastmod>
 </url>
 <url>
-<loc>http://79kg.com/message.html</loc>
-<priority>0.5</priority>
-<lastmod>2014-11-22</lastmod>
-<changefreq>weekly</changefreq>
+  <loc>http://79kg.com/tags/background/</loc>
+  <lastmod>2014-11-24T00:41:02+00:00</lastmod>
+</url>
+<url>
+  <loc>http://79kg.com/tags/database/</loc>
+  <lastmod>2014-11-24T00:41:02+00:00</lastmod>
+</url>
+<url>
+  <loc>http://79kg.com/tags/mobile/</loc>
+  <lastmod>2014-11-24T00:41:02+00:00</lastmod>
+</url>
+<url>
+  <loc>http://79kg.com/tags/app/</loc>
+  <lastmod>2014-11-24T00:41:02+00:00</lastmod>
+</url>
+<url>
+  <loc>http://79kg.com/tags/arc/</loc>
+  <lastmod>2014-11-24T00:41:02+00:00</lastmod>
+</url>
+<url>
+  <loc>http://79kg.com/tags/doc/</loc>
+  <lastmod>2014-11-24T00:41:02+00:00</lastmod>
+</url>
+<url>
+  <loc>http://79kg.com/archives/2014/</loc>
+  <lastmod>2014-11-24T00:41:02+00:00</lastmod>
+</url>
+<url>
+  <loc>http://79kg.com/2014/11/22/news/</loc>
+  <lastmod>2014-11-24T00:41:02+00:00</lastmod>
+</url>
+<url>
+  <loc>http://79kg.com/2014/11/22/foreend/</loc>
+  <lastmod>2014-11-24T00:41:02+00:00</lastmod>
+</url>
+<url>
+  <loc>http://79kg.com/2014/11/22/background/</loc>
+  <lastmod>2014-11-24T00:41:02+00:00</lastmod>
+</url>
+<url>
+  <loc>http://79kg.com/2014/11/22/database/</loc>
+  <lastmod>2014-11-24T00:41:02+00:00</lastmod>
+</url>
+<url>
+  <loc>http://79kg.com/2014/11/22/mobile/</loc>
+  <lastmod>2014-11-24T00:41:02+00:00</lastmod>
+</url>
+<url>
+  <loc>http://79kg.com/2014/11/22/app/</loc>
+  <lastmod>2014-11-24T00:41:02+00:00</lastmod>
+</url>
+<url>
+  <loc>http://79kg.com/2014/11/22/arc/</loc>
+  <lastmod>2014-11-24T00:41:02+00:00</lastmod>
+</url>
+<url>
+  <loc>http://79kg.com/2014/11/22/doc/</loc>
+  <lastmod>2014-11-24T00:41:02+00:00</lastmod>
 </url>
 </urlset>
-
